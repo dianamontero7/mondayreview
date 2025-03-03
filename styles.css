@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    
+}
+
+#heading {
+    text-align: center;
+}
+
+.subheading {
+    color: #f71df7; 
+}
+
+
+.button {
+    
+    background: white; 
+    color: rgb(2, 2, 255); 
+    border-radius: 5px;
+    padding: 7px 10px; 
+    border: none; 
+    cursor: pointer;
+}
+
+button:hover{
+    background: rgb(2, 2, 255);
+    color: white; 
+}
